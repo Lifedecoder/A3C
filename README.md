@@ -1,2 +1,3 @@
-# A3C
-Simple implementation of A3C
+# Simple A3C by pytorch
+Simple implementation of A3C using pytorch
+based on Morvanzhou's code and ikostrikov's
